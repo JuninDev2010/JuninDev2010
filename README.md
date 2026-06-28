@@ -1,16 +1,23 @@
-## Hi there 👋
+# Opa!
+Meu nome é **Márcio Jardim da Silveira Júnior**, tenho **16 anos** e atualmente estou cursando o Ensino Médio.
+Comecei a estudar programação porque gosto de tecnologia e de criar coisas. No momento estou focado no desenvolvimento **Front-end**, estudando **HTML, CSS e JavaScript**, e meus próximos objetivos são aprender **Node.js** e **React**.
+Ainda estou construindo minha experiência, então este perfil vai servir para compartilhar os projetos que desenvolver ao longo da minha evolução como programador.
 
-<!--
-**JuninDev2010/JuninDev2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias 💻
+- HTML
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
+### Estudando em seguida 📚
+- Node.js
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos 📌
+- Melhorar minhas habilidades como desenvolvedor.
+- Criar projetos cada vez mais completos.
+- Aprender novas tecnologias.
+- Construir um portfólio sólido.
+
+---
+
+Obrigado por visitar meu perfil!
