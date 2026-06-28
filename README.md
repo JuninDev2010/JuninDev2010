@@ -24,4 +24,4 @@ Ainda estou construindo minha experiência, então este perfil vai servir para c
 
 ---
 
-Obrigado por visitar meu perfil!
+Espero que tenha curtido meu perfil, obrigado pela atenção!
