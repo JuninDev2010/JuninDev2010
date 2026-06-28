@@ -8,7 +8,7 @@ Ainda estou construindo minha experiência, então este perfil vai servir para c
 - CSS
 - JavaScript
 
-### Estudando em seguida
+## Estudando em seguida
 - Node.js
 - React
 
