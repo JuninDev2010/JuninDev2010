@@ -4,19 +4,19 @@ Comecei a estudar programação porque gosto de tecnologia e de criar coisas. No
 Ainda estou construindo minha experiência, então este perfil vai servir para compartilhar os projetos que desenvolver ao longo da minha evolução como programador.
 
 ## Tecnologias
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Estudando em seguida
-Node.js
-React
+- Node.js
+- React
 
 ## Objetivos
-Melhorar minhas habilidades como desenvolvedor.
-Criar projetos cada vez mais completos.
-Aprender novas tecnologias.
-Construir um portfólio sólido.
+- Melhorar minhas habilidades como desenvolvedor.
+- Criar projetos cada vez mais completos.
+- Aprender novas tecnologias.
+- Construir um portfólio sólido.
 
 ---
 
